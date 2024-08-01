@@ -1,7 +1,7 @@
 Irene
 # Análisis de Taxis en Nueva York
 
-![Análisis de taxis][Data Analysis\Imagenes_eda\EDA.png]
+![Análisis de taxis][Data Analysis/Imagenes_eda/EDA.png]
 
 
 # Dataset taxi_zone+_lookup.csv
