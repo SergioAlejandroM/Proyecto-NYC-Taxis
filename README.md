@@ -103,6 +103,8 @@ __3. Aumento en el Uso de Taxis Eléctricos:__
 
 ## Cronología
 
+<img src="./Images/Cronologia.png" alt="Logo" width="910" height="370" />
+
 ## Miembros del Equipo
 
 | **Nombre**   | **Rol en el Proyecto**    |
