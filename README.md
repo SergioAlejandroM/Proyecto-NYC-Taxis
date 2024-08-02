@@ -109,8 +109,8 @@ __3. Aumento en el Uso de Taxis Eléctricos:__
 
 | **Nombre**   | **Rol en el Proyecto**    |
 |--------------|----------------------------|
-| ![Irene](https://img.shields.io/badge/Irene-fbff00?style=for-the-badge&logo=github&logoColor=black) | Data Analyst |
-| ![Frank](https://img.shields.io/badge/Frank-fbff00?style=for-the-badge&logo=github&logoColor=black) | Data Analyst |
+| ![Irene Martinez](https://img.shields.io/badge/Irene_Martinez-fbff00?style=for-the-badge&logo=github&logoColor=black) | Data Analyst |
+| ![Frank Urribarri](https://img.shields.io/badge/Frank_Urribarri-fbff00?style=for-the-badge&logo=github&logoColor=black) | Data Analyst |
 | ![Sergio Manrique](https://img.shields.io/badge/Sergio_Manrique-ff0000?style=for-the-badge&logo=github&logoColor=white) | Data Engineer |
 | ![Miguel llanos](https://img.shields.io/badge/Miguel_Llanos-ff0000?style=for-the-badge&logo=github&logoColor=white) | Data Engineer |
-| ![Leonardo](https://img.shields.io/badge/Leonardo-fe9a14?style=for-the-badge&logo=github&logoColor=white) | Machine Learning Engineer |
+| ![Leonardo Renteria](https://img.shields.io/badge/Leonardo_Renteria-fe9a14?style=for-the-badge&logo=github&logoColor=white) | Machine Learning Engineer |
