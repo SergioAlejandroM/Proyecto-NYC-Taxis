@@ -1,3 +1,4 @@
+Irene
 # Análisis de Taxis en Nueva York
 
 ![Análisis de taxis][Data Analysis\Imagenes_eda\EDA.png]
@@ -70,3 +71,6 @@ Matriz de Correlación: Se intentó calcular la matriz de correlación entre var
 Cobertura Geográfica: Las columnas Shape_Leng y Shape_Area proporcionan información crucial para evaluar y mejorar la cobertura de los servicios de taxi. Las zonas más grandes o con perímetros más largos pueden requerir más taxis o rutas mejor planificadas.
 Segmentación por Borough: El análisis por borough permite optimizar la asignación de recursos y mejorar el servicio en diferentes partes de la ciudad.
 Visualización de Datos: Las columnas zone y borough son útiles para crear mapas y gráficos que faciliten la interpretación de los datos y la comunicación de los resultados.
+=======
+holaa
+main
