@@ -1,3 +1,4 @@
 .vscode/
 pfenv/
 Data Engineering/.cache.sqlite
+Data Engineering/parquet_files
