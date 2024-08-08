@@ -11,6 +11,22 @@
 			"type": "secureString",
 			"metadata": "Cadena protegida para \"connectionString\"de \"AzureMySql1\""
 		},
+		"Clima_connectionString": {
+			"type": "secureString",
+			"metadata": "Cadena protegida para \"connectionString\"de \"Clima\""
+		},
+		"Clima_storage_connectionString": {
+			"type": "secureString",
+			"metadata": "Cadena protegida para \"connectionString\"de \"Clima_storage\""
+		},
+		"Viajes_connectionString": {
+			"type": "secureString",
+			"metadata": "Cadena protegida para \"connectionString\"de \"Viajes\""
+		},
+		"Zones_connectionString": {
+			"type": "secureString",
+			"metadata": "Cadena protegida para \"connectionString\"de \"Zones\""
+		},
 		"linkedService1_connectionString": {
 			"type": "secureString",
 			"metadata": "Cadena protegida para \"connectionString\"de \"linkedService1\""
@@ -18,6 +34,10 @@
 		"HttpServer1_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://github.com/SergioAlejandroM/Proyecto-NYC-Taxis/raw/main/Data/Data%20Procesada/Weather.csv"
+		},
+		"HttpServer2_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://github.com/SergioAlejandroM/Proyecto-NYC-Taxis/raw/main/Data/Data%20Procesada/Zonas.csv"
 		},
 		"containerUri": {
 			"type": "string",
@@ -49,11 +69,26 @@
 					"AzureMySql1_connectionString": {
 						"value": "[parameters('AzureMySql1_connectionString')]"
 					},
+					"Clima_connectionString": {
+						"value": "[parameters('Clima_connectionString')]"
+					},
+					"Clima_storage_connectionString": {
+						"value": "[parameters('Clima_storage_connectionString')]"
+					},
+					"Viajes_connectionString": {
+						"value": "[parameters('Viajes_connectionString')]"
+					},
+					"Zones_connectionString": {
+						"value": "[parameters('Zones_connectionString')]"
+					},
 					"linkedService1_connectionString": {
 						"value": "[parameters('linkedService1_connectionString')]"
 					},
 					"HttpServer1_properties_typeProperties_url": {
 						"value": "[parameters('HttpServer1_properties_typeProperties_url')]"
+					},
+					"HttpServer2_properties_typeProperties_url": {
+						"value": "[parameters('HttpServer2_properties_typeProperties_url')]"
 					}
 				}
 			},

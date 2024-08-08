@@ -8,11 +8,26 @@
 		"AzureMySql1_connectionString": {
 			"value": ""
 		},
+		"Clima_connectionString": {
+			"value": ""
+		},
+		"Clima_storage_connectionString": {
+			"value": ""
+		},
+		"Viajes_connectionString": {
+			"value": ""
+		},
+		"Zones_connectionString": {
+			"value": ""
+		},
 		"linkedService1_connectionString": {
 			"value": ""
 		},
 		"HttpServer1_properties_typeProperties_url": {
 			"value": "https://github.com/SergioAlejandroM/Proyecto-NYC-Taxis/raw/main/Data/Data%20Procesada/Weather.csv"
+		},
+		"HttpServer2_properties_typeProperties_url": {
+			"value": "https://github.com/SergioAlejandroM/Proyecto-NYC-Taxis/raw/main/Data/Data%20Procesada/Zonas.csv"
 		},
 		"containerUri": {
 			"value": ""
