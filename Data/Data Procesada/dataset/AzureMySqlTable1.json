@@ -1,0 +1,64 @@
+{
+	"name": "AzureMySqlTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureMySql1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": [
+			{
+				"name": "Id",
+				"type": "int",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Fecha",
+				"type": "date",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Tempratura_maxima",
+				"type": "float",
+				"precision": 0,
+				"scale": 31
+			},
+			{
+				"name": "Tempratura_minima",
+				"type": "float",
+				"precision": 0,
+				"scale": 31
+			},
+			{
+				"name": "Tempratura_promedio",
+				"type": "float",
+				"precision": 0,
+				"scale": 31
+			},
+			{
+				"name": "Lluvia",
+				"type": "varchar",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Nieve",
+				"type": "varchar",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Velocidad_del_viento",
+				"type": "float",
+				"precision": 0,
+				"scale": 31
+			}
+		],
+		"typeProperties": {
+			"tableName": "clima"
+		}
+	}
+}
