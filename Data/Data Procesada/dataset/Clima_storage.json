@@ -1,15 +1,17 @@
 {
-	"name": "Clima",
+	"name": "Clima_storage",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "HttpServer1",
+			"referenceName": "Clima",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "HttpServerLocation"
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "Datos Procesados",
+				"container": "nyc-taxis"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

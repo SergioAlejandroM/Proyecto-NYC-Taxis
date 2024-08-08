@@ -1,9 +1,9 @@
 {
-	"name": "pipeline1",
+	"name": "Clima_pipeline",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
+				"name": "Clima",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -31,9 +31,16 @@
 						}
 					},
 					"sink": {
-						"type": "AzureMySqlSink",
-						"writeBatchSize": 10000,
-						"writeBatchTimeout": "00:00:30"
+						"type": "DelimitedTextSink",
+						"storeSettings": {
+							"type": "AzureBlobStorageWriteSettings",
+							"copyBehavior": "MergeFiles"
+						},
+						"formatSettings": {
+							"type": "DelimitedTextWriteSettings",
+							"quoteAllText": true,
+							"fileExtension": ".txt"
+						}
 					},
 					"enableStaging": false,
 					"logSettings": {
@@ -146,13 +153,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "Clima",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureMySqlTable1",
+						"referenceName": "Clima_storage",
 						"type": "DatasetReference"
 					}
 				]
