@@ -1,0 +1,34 @@
+{
+	"name": "AzureMySqlTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Zones",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": [
+			{
+				"name": "ID",
+				"type": "int",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Borough",
+				"type": "varchar",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "Zona",
+				"type": "varchar",
+				"precision": 0,
+				"scale": 0
+			}
+		],
+		"typeProperties": {
+			"tableName": "zonas"
+		}
+	}
+}

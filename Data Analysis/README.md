@@ -137,8 +137,6 @@ Las columnas seleccionadas aportan valor significativo al análisis del rendimie
 
 **Model:** Texto (Modelo del vehículo)
 
-**TopSpeed:** Texto (Velocidad máxima en km/h)
-
 **Range:** Texto (Autonomía en km)
 
 **Efficiency:** Texto (Consumo de energía en Wh/km)
@@ -151,15 +149,17 @@ Las columnas seleccionadas aportan valor significativo al análisis del rendimie
 
 **PriceEuro:** Número (Precio en euros)
 
-**Accel:** Texto (Aceleración en segundos)
+**BodyStyle:** Texto (Estilo de carrocería)
 
 **Columnas Descartadas**
 
 Las columnas descartadas no aportan valor crítico al análisis en el contexto de la evaluación operativa y económica de una flota de taxis eléctricos. Aunque proporcionan detalles adicionales sobre el vehículo, no son esenciales para el análisis de eficiencia, autonomía y costos operativos necesarios para tomar decisiones informadas sobre la implementación de taxis eléctricos.
 
+**TopSpeed:** Texto (Velocidad máxima en km/h)
+
 **PlugType: Texto** (Tipo de enchufe)
 
-**BodyStyle:** Texto (Estilo de carrocería)
+**Accel:** Texto (Aceleración en segundos)
 
 **Segment:** Texto (Segmento del vehículo)
 
@@ -396,10 +396,6 @@ Las columnas seleccionadas aportan valor significativo al análisis del rendimie
 
 **Vehicle ID**: Identificación única del vehículo
 
-**Manufacturer** ID: Identificación del fabricante.
-
-**Category** ID: Identificación de la categoría del vehículo.
-
 **Model**: Modelo del vehículo.
 
 **Model Year**: Año del modelo del vehículo.
@@ -415,6 +411,11 @@ Las columnas seleccionadas aportan valor significativo al análisis del rendimie
 **Columnas Descartadas**
 
 Las columnas descartadas no aportan valor crítico al análisis en el contexto de la evaluación operativa y ambiental de los vehículos. Aunque proporcionan detalles adicionales sobre el motor y la configuración del combustible, no son esenciales para el análisis de eficiencia, autonomía y características operativas necesarias para tomar decisiones informadas sobre el rendimiento de los vehículos.
+
+
+**Category ID**: Identificación de la categoría del vehículo.
+
+**Manufacturer ID**: Identificación del fabricante.
 
 **Fuel ID**: Identificación del tipo de combustible.
 
