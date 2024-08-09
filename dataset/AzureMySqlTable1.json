@@ -1,0 +1,28 @@
+{
+	"name": "AzureMySqlTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureMySql1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": [
+			{
+				"name": "ID_clase_de_vehiculo",
+				"type": "int",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "clase_de_vehiculo",
+				"type": "varchar",
+				"precision": 0,
+				"scale": 0
+			}
+		],
+		"typeProperties": {
+			"tableName": "clase_de_vehiculo"
+		}
+	}
+}
