@@ -81,7 +81,7 @@ Visualización de Datos: Las columnas zone y borough son útiles para crear mapa
 ### Estos dataset muestran información de costos de combustibles,area recorrida y frecuencia de alta y baja demanda en donde se puede sacar los km recorridos y calcular el costo de mantenimientos de autos a combustible con los eléctricos en donde se observa gran ventaja a favor y por ende sería rentable para la empresa.
 
 ## Objetivo 3 zonas de alta emisión CO2 y ruido:
-### emissions.csv (las 4 columnas completas) ya que se optiene muestra de cantidad de emisiones en los últimos 5 años en diferentes distritos de Nueva York y el gas distribuido.
+### zonas_distritos_emisiones.csv muestra de cantidad de emisiones de CO2 en diferentes distritos de Nueva York .
 
 
 
