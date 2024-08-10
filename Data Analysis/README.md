@@ -73,6 +73,24 @@ Segmentación por Borough: El análisis por borough permite optimizar la asignac
 Visualización de Datos: Las columnas zone y borough son útiles para crear mapas y gráficos que faciliten la interpretación de los datos y la comunicación de los resultados.
 =======
 
+<<<<<<< HEAD
+## OBSERVACIONES:
+## Objetivo 2 comparación entre taxis eléctricos y de gasolina.
+### - Vehicle_Fuel_Economy_Data.csv , columnas        (year-manufacturar-model-fuelCost08,fuelType1)
+### - taxi_zones.dbf , columnas (shape-leng y shape-area)
+### -taxi+_zone_lookup.csv,columnas (service_zone)
+### Estos dataset muestran información de costos de combustibles,area recorrida y frecuencia de alta y baja demanda en donde se puede sacar los km recorridos y calcular el costo de mantenimientos de autos a combustible con los eléctricos en donde se observa gran ventaja a favor y por ende sería rentable para la empresa.
+
+## Objetivo 3 zonas de alta emisión CO2 y ruido:
+### zonas_distritos_emisiones.csv muestra de cantidad de emisiones de CO2 en diferentes distritos de Nueva York .
+
+
+
+
+
+
+
+=======
 **Exploración de Datos**
 
 1. **Número de Filas y Columnas:**
@@ -459,4 +477,5 @@ Las columnas descartadas no aportan valor crítico al análisis en el contexto d
 * **Preferencia por Tipos de Combustible**: La preferencia por tipos de combustible híbrido y eléctrico indica una transición hacia vehículos más sostenibles y eficientes. Esto es crucial para reducir las emisiones y mejorar la eficiencia energética en el sector de transporte.
 
 * **Categorías de Vehículos**: La predominancia de categorías como Sedan/Wagon y SUV sugiere que estos tipos de vehículos son los más comunes en el dataset, lo que puede influir en las tendencias de mercado y la planificación de flotas de vehículos.
+>>>>>>> ee3981016ed281f100f7c620c46fd595a68c0cce
 

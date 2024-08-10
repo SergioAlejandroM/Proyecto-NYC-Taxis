@@ -1,9 +1,0 @@
-{
-	"name": "DataVisionProyect",
-	"location": "brazilsouth",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "7b629706-fb8b-4112-9c5f-0d7675313b53",
-		"tenantId": "abe960eb-0e31-470a-9b98-4dc3e24b8a68"
-	}
-}
