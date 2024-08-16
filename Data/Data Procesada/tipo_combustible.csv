@@ -1,0 +1,16 @@
+Tipo_Combustible,ID_Combustible
+Premium,1
+Regular,2
+Diesel,3
+Electricity,4
+Gasoline or E85,5
+Midgrade,6
+Premium and Electricity,7
+Premium or E85,8
+,9
+Regular Gas and Electricity,10
+Regular Gas or Electricity,11
+Premium Gas or Electricity,12
+CNG,13
+Gasoline or natural gas,14
+Gasoline or propane,15

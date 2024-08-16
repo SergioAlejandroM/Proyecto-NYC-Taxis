@@ -101,6 +101,10 @@ __3. Aumento en el Uso de Taxis Eléctricos:__
 
 ## PipeLine
 
+<p align="center">
+  <img src="./Images/Pipeline.png" alt="New York"/>
+</p>
+
 ## Cronología
 
 <img src="./Images/Cronologia.png" alt="Logo" width="910" height="370" />
