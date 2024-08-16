@@ -1,0 +1,265 @@
+[33mcommit e190d0e216b1d9ea8de8dfad7586793762b58c17[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mETL[m[33m)[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 15 22:40:16 2024 -0500
+
+    Tranformaciones  finales
+
+[33mcommit 29ed74d1ffe289325382829b0395650c3a109700[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 15 21:41:11 2024 -0500
+
+    Tranformaciones  finales
+
+[33mcommit abf69b9023e406c5eadb7351910e815f9168df76[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 15 21:37:48 2024 -0500
+
+    Tranformaciones  finales
+
+[33mcommit 7be8e0dbfde69141ed170ec22896e8900fc716ff[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 15 21:33:36 2024 -0500
+
+    Tranformaciones  finales
+
+[33mcommit db33b40957e145d9d73395d7f6e4a4f341fb399b[m[33m ([m[1;31morigin/ETL[m[33m)[m
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Fri Aug 9 09:39:43 2024 -0500
+
+    Adding pipeline: pipeline1
+    Adding dataset: githubrawclases
+    Adding dataset: AzureMySqlTable1
+
+[33mcommit c10c0463077b2d6d84bb98f7ebdd104dda86aff4[m
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Fri Aug 9 09:27:35 2024 -0500
+
+    Adding linkedService: AzureMySql1
+
+[33mcommit c8d8b58fb60846df194042b9823e549b80c90df5[m
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Fri Aug 9 09:23:53 2024 -0500
+
+    Adding linkedService: githubrawclases
+
+[33mcommit cbf66a0cff8a726001b23e7d5f818b08562c28b1[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 8 14:18:34 2024 -0500
+
+    ETL
+
+[33mcommit 35b6cefa044c2cce98903e1b55663f85ce9ca786[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 8 12:18:53 2024 -0500
+
+    ETL
+
+[33mcommit ce3b12a05f1a37371658bf262913109b02a66e5e[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 6031ff0 027381a
+Author: Leonardo Renteria <106336862+leorencalde@users.noreply.github.com>
+Date:   Wed Aug 7 19:59:57 2024 -0500
+
+    Merge pull request #14 from SergioAlejandroM/leonardo
+    
+    Se agregan mis datasets
+
+[33mcommit 6031ff03b5769bdf7c171fe7d060e1d0debad1f5[m
+Merge: 3fef8ba ee39810
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Wed Aug 7 19:59:48 2024 -0500
+
+    Merge pull request #13 from SergioAlejandroM/Irene
+    
+    Irene
+
+[33mcommit 027381a64b47b05e42a79823ee3c600af808830a[m
+Author: leorencalde <leo.rencalderon@gmail.com>
+Date:   Wed Aug 7 19:55:56 2024 -0500
+
+    Datasets Leo
+
+[33mcommit ee3981016ed281f100f7c620c46fd595a68c0cce[m
+Merge: 5cbaade 3fef8ba
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Mon Aug 5 19:54:55 2024 -0500
+
+    Merge pull request #12 from SergioAlejandroM/main
+    
+    Scrip_co2
+
+[33mcommit 5cbaade1565c8563c28524a451600468d0aa47ca[m
+Merge: 94385c0 58cb175
+Author: Irene <irenevivianamartinez1982@gmail.com>
+Date:   Mon Aug 5 10:12:45 2024 -0300
+
+    Merge branch 'Irene' of https://github.com/SergioAlejandroM/Proyecto-NYC-Taxis into Irene
+
+[33mcommit 94385c06e5290c9194ec5a0ab5fdd604f995a2b4[m
+Author: Irene <irenevivianamartinez1982@gmail.com>
+Date:   Mon Aug 5 10:05:40 2024 -0300
+
+    script_co2 y combined_data_CO2.csv
+
+[33mcommit 3fef8baa23b79bdafdab462243cfab6a112acd3a[m
+Author: Sergio Manrique <alejocoder03@gmail.com>
+Date:   Thu Aug 1 22:30:33 2024 -0500
+
+    Update README.md
+
+[33mcommit ff6f175581e945bfe48c75f6339621c29ecb8900[m
+Merge: eb17916 c5ee168
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 1 22:19:35 2024 -0500
+
+    Merge pull request #11 from SergioAlejandroM/frank
+    
+    modifique la ubicacion de los edas, modifique el readme uniendo lo que tenia en el mio
+
+[33mcommit c5ee168b98b0e1fb177af6708c5f5187aeded7ce[m[33m ([m[1;31morigin/frank[m[33m)[m
+Author: FrankJZx <fjuniorug@gmail.com>
+Date:   Thu Aug 1 20:51:32 2024 -0500
+
+    elimine la carpeta frank, y agregue directamente los eda a la carpeta Data Analysis ademas que agregue al readme los insight, conclusione, informacion de los datos del data set, diccionarios y tambien agregue otros graficos a los edas
+
+[33mcommit eb17916fb77873a713a2bdc8bf16cfa03d65dd83[m
+Merge: 31e9bf0 01e665e
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 1 20:30:34 2024 -0500
+
+    README
+
+[33mcommit 31e9bf0e7f790e940e703fe614dfce4abe45c923[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 1 20:28:59 2024 -0500
+
+    README
+
+[33mcommit 01e665ea139e8b5d5938251b50b7cc45f477e580[m
+Merge: 725f382 9dd8bed
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Thu Aug 1 09:59:27 2024 -0500
+
+    Merge pull request #10 from SergioAlejandroM/EDA-Alternative_fuel_vehicles_US
+    
+    este este es el EDA de Alternative_fuel_vehicles_US junto con su dicc…
+
+[33mcommit 725f382409396445dbd7b0c0889f918529b337e6[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Thu Aug 1 09:58:26 2024 -0500
+
+    README
+
+[33mcommit b6d59c0f331f3d1ac200d80e3e49354c2c91818a[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 21:47:15 2024 -0500
+
+    Clima y readme
+
+[33mcommit cd005aae9df554178c747f19d7d8de5ced90004e[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 19:04:47 2024 -0500
+
+    logo
+
+[33mcommit e1f36e4baa105c7ba4413f82377ffce22c5759d9[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 19:03:16 2024 -0500
+
+    logo
+
+[33mcommit dc59136b00d80845fd35bae6a98fa2ab580709af[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 19:02:33 2024 -0500
+
+    logo
+
+[33mcommit 6d6313bda6afe148f8f8b5caf8a139d3ae056307[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 19:01:15 2024 -0500
+
+    README
+
+[33mcommit 5c7a07a9c6b6bd5079e19de4d0b9c852eec9d729[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Wed Jul 31 19:00:07 2024 -0500
+
+    README
+
+[33mcommit 7f28a2de85367bda40ced8462fc6e24358b6f3d4[m
+Merge: a030f50 c15dbc2
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Wed Jul 31 17:30:00 2024 -0500
+
+    Merge pull request #9 from SergioAlejandroM/frank
+    
+    Carga de Edas
+
+[33mcommit a030f503fa2b5c75bc2ca24dff721e7ee2efe11e[m
+Merge: 429fb67 58cb175
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Wed Jul 31 17:25:06 2024 -0500
+
+    Merge pull request #8 from SergioAlejandroM/Irene
+    
+    script_taxi_lookup
+
+[33mcommit 9dd8bed8423ba41a15a1e987e79fcd1d5d202480[m[33m ([m[1;31morigin/EDA-Alternative_fuel_vehicles_US[m[33m)[m
+Author: Miguel-David-Llanos-Lopez <llanoslopezmigueldavid@gmail.com>
+Date:   Wed Jul 31 17:21:54 2024 -0500
+
+    este este es el EDA de Alternative_fuel_vehicles_US junto con su diccionario de datos espero sus comentarios
+
+[33mcommit c15dbc206cbe419b48e5d6792175d5fe1d23951e[m
+Author: FrankJZx <fjuniorug@gmail.com>
+Date:   Wed Jul 31 12:33:38 2024 -0500
+
+    Carga de Edas
+
+[33mcommit 58cb17597485b7d5af149aa659d11633b11d06d1[m
+Merge: 699ed6d 429fb67
+Author: Nicolas Hoyos <108770536+Nico22724@users.noreply.github.com>
+Date:   Wed Jul 31 11:45:52 2024 -0400
+
+    Merge branch 'main' into Irene
+
+[33mcommit 699ed6d995cda4c5f0e7479bff6c3b795674ed02[m
+Author: Irene <irenevivianamartinez1982@gmail.com>
+Date:   Tue Jul 30 22:41:20 2024 -0300
+
+    script_taxi_lookup
+
+[33mcommit 429fb67df7b9512a5fde9df6781f79d71e784264[m
+Merge: 8f2c12b ba1fedc
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Tue Jul 30 19:49:32 2024 -0500
+
+    Merge pull request #3 from SergioAlejandroM/Irene
+    
+    prueba
+
+[33mcommit 8f2c12b09d3e2a010a84157be81c6e37c4a8773e[m
+Merge: d26747b 091a96d
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Tue Jul 30 19:30:51 2024 -0500
+
+    Merge pull request #7 from SergioAlejandroM/alejo
+    
+    Api
+
+[33mcommit 091a96def7c01f080fc6b9cc1d968ca04cd0d930[m[33m ([m[1;31morigin/alejo[m[33m, [m[1;32malejo[m[33m)[m
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Tue Jul 30 19:29:51 2024 -0500
+
+    Api
+
+[33mcommit d26747b9eb38f8e8fbcd62c78ee0cd16a091c774[m
+Merge: 4f68c24 a06662b
+Author: AlejoMc <alejocoder03@gmail.com>
+Date:   Tue Jul 30 19:20:54 2024 -0500
+
+    Merge pull request #6 from SergioAlejandroM/alejo
+    
+    Consumo de APIs
+
+[33mcommit a06662ba910a91af683064be5504241346897c83[m
+Aut
