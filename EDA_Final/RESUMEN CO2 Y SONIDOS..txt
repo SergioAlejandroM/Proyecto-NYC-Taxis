@@ -1,0 +1,25 @@
+Se obtiene una muestra del registro del año 2023(mes de diciembre)
+se observan datos de taxis fósiles con diferentes combustibles y taxis eléctricos en menor cantidad(amarillos/verdes)
+en los cuales se maneja la distrbución de la flota en puntos de sus zonas en 2 distritos principales(Manhattan y Queens).
+
+total de taxis:  Manhattan ->  1115965            
+                     Queens   -> 195998
+
+
+*Cálculo de emisiones de CO2.
+Se tomo como partida la distancia recorrida en millas de los taxis de un distrito a otro o dentro del mismo.
+
+
+millas * 0,4 emisiones producidas por taxis(estos datos se optiene de US EPA,datos abiertos),valor que dependiendo del combustible oscila de 0,4 a 0,6 emisiones por kgt
+resultado = 496,52 emisiones en el mes de diciembre representando parte de las emisiones anuales que son de 595824
+kpi propuesto con reduccion de 1% para el prox año quedaria en 589866(1 año)
+
+*Cálculo de emisiones sonoras
+Datos obtenidos de fuente abierta US EPA que reprsenta con el 70 decibelios a los sonidos que son de taxi:
+
+70 * numero de taxis por distrito
+resultado =   Manhattan 78117550, Queens 13719860   % en 2(semestres)
+kpi propuesto en reducción de un 5% para el proximo semestre Manhattan -> 37105836,25
+                                                             Queens -> 16933,25
+
+
